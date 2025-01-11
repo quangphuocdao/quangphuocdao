@@ -2,7 +2,6 @@
 
 Hi everyone! 👋 I'm **Quang Phuoc**, a senior student majoring in **Fintech** at **National Economics University (NEU)**.  
 My goal is to become an **Analytics Engineer**, contributing to data-driven solutions in the business world.
-
 📧 **Email:** quangphuoc.work@gmail.com
 ---
 
@@ -27,8 +26,8 @@ My goal is to become an **Analytics Engineer**, contributing to data-driven solu
 ---
 
 ## 🌐 Connect with Me  
-- **LinkedIn:** [[Quang Phuoc](https://www.linkedin.com/in/quangphuoc2509/)](#)  
-- **Facebook:** [[fb.com/your-profile](https://www.facebook.com/quangphuoc25t9/)](#)  
+- **LinkedIn:** [[Quang Phuoc Dao](https://www.linkedin.com/in/quangphuoc2509/)](#)  
+- **Facebook:** [[Quang Phuoc Dao](https://www.facebook.com/quangphuoc25t9/)](#)  
 
 ---
 
