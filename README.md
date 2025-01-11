@@ -2,6 +2,7 @@
 
 Hi everyone! 👋 I'm **Quang Phuoc**, a senior student majoring in **Fintech** at **National Economics University (NEU)**.  
 My goal is to become an **Analytics Engineer**, contributing to data-driven solutions in the business world.
+
 📧 **Email:** quangphuoc.work@gmail.com
 ---
 
