@@ -38,4 +38,4 @@ Reach me through: quangphuoc.work@gmail.com
 
 ---
 
-“Data is the new oil, and I’m here to refine it!” 🛢️✨
+“Try and fail, but never fail to try” ✨
