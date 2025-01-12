@@ -38,4 +38,4 @@ Reach me through: quangphuoc.work@gmail.com
 
 ---
 
-“Try and fail, but never fail to try” ✨
+“The only failure is not trying.” ✨
