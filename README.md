@@ -11,7 +11,8 @@ Reach me through: quangphuoc.work@gmail.com
 ## 🛠️ Skills & Technologies
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
+  ![image](https://github.com/user-attachments/assets/d124345e-e2e0-43f5-8a46-06ebe0ce06cf)
+
 </p>
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
