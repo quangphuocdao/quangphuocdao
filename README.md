@@ -25,7 +25,7 @@ Reach me through: quangphuoc.work@gmail.com
 
 ## 🎯 Career Goals
 - 🏆 **Aspiration:**  
-  To become a **Analytics Engineer**, focusing on building data pipelines, optimizing analytics processes, and analyzing data to share many special insights.
+  To become a **Analytics Engineer**, focusing on building data pipelines, optimizing analytics processes, and analyzing data to share special insights.
 
 - 🌱 **Currently Learning:**  
   Advanced **SQL** techniques, **Machine Learning** models, and best practices in **Data Engineering**.
