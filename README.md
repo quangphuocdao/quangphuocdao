@@ -1,4 +1,4 @@
-# 🌟 Quang Phuoc | Analytics Engineer 🚀
+# 🌟 Quang Phuoc | Analytics Engineer 
 
 Hi everyone! 👋 I'm **Quang Phuoc**, a senior student majoring in **Fintech** at **National Economics University (NEU)**.  
 
@@ -9,8 +9,10 @@ Reach me through: quangphuoc.work@gmail.com
 ---
 
 ## 🛠️ Skills & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
+</p>
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
 ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)  
