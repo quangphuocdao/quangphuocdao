@@ -10,15 +10,16 @@ Reach me through: quangphuoc.work@gmail.com
 
 ## 🛠️ Skills & Technologies
 <p>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-  ![image](https://github.com/user-attachments/assets/d124345e-e2e0-43f5-8a46-06ebe0ce06cf)
-
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Power Automate" width="50" height="50"/>
+  <img src="https://github.githubassets.com/images/modules/copilot/copilot-logo.png" alt="GitHub Copilot" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="50"/>
 </p>
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)  
-![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-4EA94B?style=flat-square&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 
 ---
 
