@@ -33,8 +33,8 @@ Reach me through: quangphuoc.work@gmail.com
 ---
 
 ## 🌐 Connect with Me  
-- **LinkedIn:** [[Quang Phuoc Dao](https://www.linkedin.com/in/quangphuoc2509/)](#)  
-- **Facebook:** [[Quang Phuoc Dao](https://www.facebook.com/quangphuoc25t9/)](#)  
+- **LinkedIn:** [[Quang Phuoc Dao](https://www.linkedin.com/in/quangphuoc2509/)]
+- **Facebook:** [[Quang Phuoc Dao](https://www.facebook.com/quangphuoc25t9/)]
 
 ---
 
