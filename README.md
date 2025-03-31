@@ -24,10 +24,10 @@ Reach me through: quangphuoc.work@gmail.com
 ---
 
 ## 🎯 Goals
-- 🏆 **Future aims**  
+- **Future aims**  
   To become a **Analytics Engineer**, focusing on building data pipelines, optimizing analytics processes, and analyzing data to share special insights.
 
-- 🌱 **Currently learning**  
+- **Currently learning**  
   Advanced **SQL** techniques, **Machine Learning** models, and best practices in **Data Engineering**.
 
 ---
